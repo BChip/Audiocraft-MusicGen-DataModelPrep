@@ -59,3 +59,10 @@ python split_song.py
 ```
 
 ### You can now use https://github.com/chavinlo/musicgen_trainer to finish building the model
+
+Example:
+
+```bash
+cd musicgen_trainer
+python run.py --dataset /full/path/to/your/data_model
+```
